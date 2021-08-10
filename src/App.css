@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.details-container {
+  width: 200px;
+  color: #ecf0f1;
+}
+
+.details-container a {
+  color: #3498db;
+}
+
+.bar-orange .bar-progress {
+  fill: orange;
+}
+
+.bar-pink .bar-progress {
+  fill: pink;
+}
